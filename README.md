@@ -20,23 +20,23 @@ Project consists of a simple encrypted messaging application that allows users t
 
 <p align="center">
 User1 types a message and sends it: <br/>
-<img src="https://i.imgur.com/o9zkfJ2.png" height="80%" width="80%" alt="Encrypted messaging app steps"/>
+<img src="https://i.imgur.com/o9zkfJ2.png" height="50%" width="50%" alt="Encrypted messaging app steps"/>
 <br />
 <br />
 The message is encrypted using User2's public key:  <br/>
-<img src="https://i.imgur.com/9tiKgZv.png" height="80%" width="80%" alt="Encrypted messaging app steps"/>
+<img src="https://i.imgur.com/9tiKgZv.png" height="50%" width="50%" alt="Encrypted messaging app steps"/>
 <br />
 <br />
 The encrypted message is sent to the server: <br/>
-<img src="https://i.imgur.com/aVNyeSX.png" height="80%" width="80%" alt="Encrypted messaging app steps"/>
+<img src="https://i.imgur.com/aVNyeSX.png" height="50%" width="50%" alt="Encrypted messaging app steps"/>
 <br />
 <br />
 The user2 recieves the encrypted message and decryptes it using its private key:  <br/>
-<img src="https://i.imgur.com/z1gnwMy.png" height="80%" width="80%" alt="Encrypted messaging app steps"/>
+<img src="https://i.imgur.com/z1gnwMy.png" height="50%" width="50%" alt="Encrypted messaging app steps"/>
 <br />
 <br />
 The decrypted message is displayed in user2's chat window:  <br/>
-<img src="https://i.imgur.com/hsQOHbT.png" height="80%" width="80%" alt="Encrypted messaging app steps"/>
+<img src="https://i.imgur.com/hsQOHbT.png" height="50%" width="50%" alt="Encrypted messaging app steps"/>
 <br />
 <br />
 
